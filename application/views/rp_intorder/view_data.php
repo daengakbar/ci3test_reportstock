@@ -10,6 +10,10 @@
 		<th>COGM</th>
 		<th>NET</th>
 		<th>USERNET</th>
+		<th>S.I BELI</th>
+		<th>S.I BUYBACK</th>
+		<th>S.O PENJUALAN</th>
+		<th>STOCK AKHIR</th>
 	</tr>
 </thead>
 <tbody></tbody>
@@ -24,6 +28,10 @@
 		<th>COGM</th>
 		<th>NET</th>
 		<th>USERNET</th>
+		<th>S.I BELI</th>
+		<th>S.I BUYBACK</th>
+		<th>S.O PENJUALAN</th>
+		<th>STOCK AKHIR</th>
 	</tr>
 </tfoot>
 </table>
@@ -48,6 +56,11 @@
 					{ "mData": "COGM" },
 					{ "mData": "NET" },
 					{ "mData": "USERNET" },
+					{ "mData": "SIB" },
+					{ "mData": "SBB" },
+					{ "mData": "SIP" },
+					{ "mData": "SA" },
+					
 				],
 				"sScrollXInner": "220%"
 		});

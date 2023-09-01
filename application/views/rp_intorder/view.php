@@ -14,10 +14,10 @@
 <section class="panel panel-default">
 	<header class="panel-heading">
 		<ul class="nav nav-pills pull-right">
-    		<li><a href="javascript:;" class="text-success" id="btnexl"><i class="i i-file-excel"></i> Download Excel</a></li>
+    		<li><a href="javascript:;" class="text-success" id="btnexl"><i class="i i-file-excel"></i> <b>Download Excel</b></a></li>
 			<li><a href="javascript:;" class="text-primary" id="btnload"><i class="i i-search2"></i> Load Data</a></li>
         </ul>
-		List Data
+		Row Data (Select Data Hanya <b>YM : 2023-06</b>)
 	</header>
 	<div class="panel-body">
 		<div class="table-responsive">
